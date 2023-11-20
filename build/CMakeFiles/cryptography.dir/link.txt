@@ -1,0 +1,1 @@
+/usr/bin/clang -g -rdynamic CMakeFiles/cryptography.dir/main.c.o -o cryptography  -lcurl 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/atjowt/External Disk/repo/cryptography/build",
+  "command": "/usr/bin/clang   -g -o CMakeFiles/cryptography.dir/main.c.o -c \"/media/atjowt/External Disk/repo/cryptography/main.c\"",
+  "file": "/media/atjowt/External Disk/repo/cryptography/main.c"
+}
+]
