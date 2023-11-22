@@ -1,3 +1,4 @@
-/media/atjowt/External Disk/repo/cryptography/build/CMakeFiles/cryptography.dir
+/media/atjowt/External Disk/repo/cryptography/build/CMakeFiles/client.dir
+/media/atjowt/External Disk/repo/cryptography/build/CMakeFiles/server.dir
 /media/atjowt/External Disk/repo/cryptography/build/CMakeFiles/edit_cache.dir
 /media/atjowt/External Disk/repo/cryptography/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,12 @@
 [
 {
   "directory": "/media/atjowt/External Disk/repo/cryptography/build",
-  "command": "/usr/bin/clang   -g -o CMakeFiles/cryptography.dir/main.c.o -c \"/media/atjowt/External Disk/repo/cryptography/main.c\"",
-  "file": "/media/atjowt/External Disk/repo/cryptography/main.c"
+  "command": "/usr/bin/clang  -I\"/media/atjowt/External Disk/repo/cryptography/include\" -g -o CMakeFiles/client.dir/src/client.c.o -c \"/media/atjowt/External Disk/repo/cryptography/src/client.c\"",
+  "file": "/media/atjowt/External Disk/repo/cryptography/src/client.c"
+},
+{
+  "directory": "/media/atjowt/External Disk/repo/cryptography/build",
+  "command": "/usr/bin/clang  -I\"/media/atjowt/External Disk/repo/cryptography/include\" -g -o CMakeFiles/server.dir/src/server.c.o -c \"/media/atjowt/External Disk/repo/cryptography/src/server.c\"",
+  "file": "/media/atjowt/External Disk/repo/cryptography/src/server.c"
 }
 ]
